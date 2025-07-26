@@ -27,5 +27,10 @@
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrien200269&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adrien200269&theme=dark)](https://git.io/streak-stats)
 
 
