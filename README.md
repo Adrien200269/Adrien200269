@@ -1,36 +1,60 @@
-### Hi there 👋 I'm Adrien Shrestha
+<h1 align="center">Hi there, I'm Adrien Shrestha 👋</h1>
 
-🚀 Aspiring developer passionate about building efficient and scalable applications.  
-🎓 Student | 💻 Coder | 🎨 Designer
+<p align="center">
+  🚀 Aspiring Developer | 🎓 Student | 💡 Passionate about clean code & innovative design  
+</p>
 
 ---
 
-### 🧰 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+### 🔧 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white"/>
+</p>
 
 ---
 
 ### 📂 Noteworthy Projects
-- 🔵 [Blissful Cakes](https://github.com/Adrien200269/Blissful_Cakes)
-- 💬 [WHISPER_BOX](https://github.com/Visnusah/WHISPER_BOX)
-- 📘 [Adrien_personal Portfolio](https://github.com/Adrien200269/Adrien_personal)
+
+- 🎂 **[Blissful_Cakes](https://github.com/Adrien200269/Blissful_Cakes)**  
+  An online cake ordering platform with role-based authentication and inventory control.
+
+- 🗨️ **[WHISPER_BOX](https://github.com/Visnusah/WHISPER_BOX)**  
+  A secure messaging platform developed with team collaboration.
+
+- 🌐 **[Adrien_personal](https://github.com/Adrien200269/Adrien_personal)**  
+  My personal portfolio website built with React & Vite.
+
+- 📱 **[blissful_kotlin](https://github.com/Adrien200269/blissful_kotlin)**  
+  Android app version of Blissful Cakes using Kotlin and Jetpack Compose.
 
 ---
 
-### 📈 GitHub Stats
-![Adrien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adrien200269&show_icons=true&theme=tokyonight)
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adrien200269&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrien200269&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrien200269&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 GitHub Streak
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Adrien200269&theme=tokyonight"/>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Adrien200269&theme=dark)](https://git.io/streak-stats)
+---
+
+### 🌱 Currently Learning
+- React Native and cross-platform development
+- Docker and CI/CD with GitHub Actions
+- Advanced backend APIs with Node.js & Express
 
 
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
